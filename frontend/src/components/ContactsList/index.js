@@ -30,7 +30,7 @@ export default function ContactsList() {
               <small>Instagram</small>
             </div>
             <span>victor@gmail.com</span>
-            <span>(31) 99999-9999</span>
+            <span>(31) 99999-8888</span>
           </div>
 
           <div className="actions">
